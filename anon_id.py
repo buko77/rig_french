@@ -1,5 +1,15 @@
 #!/usr/bin/python
 # -*- encoding:utf8 -*-
+
+#Ce script permet de générer une identité fictive qui comprend :
+#Prénom (femme/homme)
+#Nom (en capital)
+#addresse et numéro(s)
+#ville et code postal
+
+#SCRIPT MADE BY BUKO 
+#VERSION 1.0
+
 import argparse
 import random
 parser = argparse.ArgumentParser(description="Generateur aleatoire d'identité fictive")
