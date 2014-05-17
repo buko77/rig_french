@@ -1,6 +1,0 @@
-Liste d'amélioration à apporter sur anon_id.py
-
-- Traduction en anglais
-- Mise en place sur base de données(+1000 noms)
-- Voir option pour choisir le nombre d'identité à générer.
-- Voir option pour générer photo en plus (google image et api)
