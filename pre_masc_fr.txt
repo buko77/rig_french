@@ -8,7 +8,7 @@ aimé
 alain
 albert
 alexandre
-alexis (1)
+alexis 
 alfred
 alison
 alphonse
@@ -140,7 +140,7 @@ ignace
 iréné
 isidore
 jacques
-jean (1)
+jean 
 jean-baptiste
 jean-marie
 jeannot
@@ -151,7 +151,7 @@ joël
 joseph
 josue
 jourdain
-jules (1)
+jules 
 julien
 juste
 justin

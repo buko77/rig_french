@@ -131,7 +131,7 @@ geneviève
 georgette
 georgine
 germaine
-gervaise (2)
+gervaise 
 ghislaine
 gigi
 gilberte
@@ -174,7 +174,7 @@ julienne
 juliette
 justine
 laure
-laurence (2)
+laurence 
 laurentine
 laurette
 léa
@@ -202,7 +202,7 @@ marcellette
 marcelline
 margot
 marguerite
-marianne (1)
+marianne 
 marie
 marielle
 mariette
@@ -225,13 +225,13 @@ morgaine
 morgane
 muriel
 myriam
-nadia (1)
+nadia 
 nadine
 natalie
 nathalie
 nicole
 nicolette
-nina (1)
+nina 
 ninette
 ninon
 noella
@@ -283,7 +283,7 @@ seraphine
 sévérine
 sibylle
 sidonie
-simone (1)
+simone 
 solange
 sophie
 stéphanie
@@ -297,7 +297,7 @@ sylvie
 tatienne
 thérèse
 toinette
-valentine (2)
+valentine 
 valérie
 véronique
 victoire

@@ -6,7 +6,7 @@ Rue du 3-Septembre-1944
 Place du 8-Mai-1945
 Place Ampère
 Rue de l'Abondance
-Avenue des Acacias (Lyon)
+Avenue des Acacias 
 Rue d'Aguesseau
 Place d'Albon
 Rue d'Algérie
@@ -125,7 +125,7 @@ Rue Duquesne
 Rue Paul-Duvivier
 Rue Edmond-Locard
 Rue des Émeraudes
-Rue d'Enghien (Lyon)
+Rue d'Enghien 
 Rue de l'Épargne
 Boulevard des États-Unis
 Quai des Étroits
@@ -325,4 +325,4 @@ Rue Louis-Vitet
 Avenue Viviani
 Place Voltaire
 Rues de Lyon
-Rue de Lyon
+
